@@ -1,0 +1,335 @@
+{
+    "_id": {
+        "$oid": "624a5570dcfe2d8301eb3f38"
+    },
+    "location": {
+        "$oid": "624a4cac90abc618f71cb1b0"
+    },
+    "results": [
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-04-05T02:17:12.274Z"
+            },
+            "_id": {
+                "$oid": "624a5570dcfe2d8301eb3f3a"
+            }
+        },
+        {
+            "result": 85,
+            "resultDate": {
+                "$date": "2022-04-04T02:17:12.274Z"
+            },
+            "_id": {
+                "$oid": "624a5570dcfe2d8301eb3f3a"
+            }
+        },
+        {
+            "result": 90,
+            "resultDate": {
+                "$date": "2022-04-03T02:17:12.274Z"
+            },
+            "_id": {
+                "$oid": "624a5570dcfe2d8301eb3f3a"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-04-02T02:17:12.274Z"
+            },
+            "_id": {
+                "$oid": "624a5570dcfe2d8301eb3f3a"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-04-01T02:17:12.274Z"
+            },
+            "_id": {
+                "$oid": "624a5570dcfe2d8301eb3f3a"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-01T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba87ecc7f6471cff3cf77"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-02T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba87fcc7f6471cff3cf81"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-08T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba883cc7f6471cff3cf9f"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-03T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba881cc7f6471cff3cf87"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-05T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba882cc7f6471cff3cf97"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-06T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba882cc7f6471cff3cf93"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-07T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba883cc7f6471cff3cfa1"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-04T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba881cc7f6471cff3cf8b"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-09T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba884cc7f6471cff3cfb1"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-13T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba886cc7f6471cff3cfbf"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-11T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba884cc7f6471cff3cfb5"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-12T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba886cc7f6471cff3cfc3"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-14T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba886cc7f6471cff3cfb7"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-10T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba884cc7f6471cff3cfa9"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-15T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba887cc7f6471cff3cfd3"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-16T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba887cc7f6471cff3cfd1"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-21T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba889cc7f6471cff3cfdd"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-20T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba889cc7f6471cff3cfe3"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-17T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba887cc7f6471cff3cfcd"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-18T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba889cc7f6471cff3cff1"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-24T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba88acc7f6471cff3cff9"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-25T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba88acc7f6471cff3cff5"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-22T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba88acc7f6471cff3d007"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-23T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba88acc7f6471cff3cfff"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-19T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba889cc7f6471cff3cfe9"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-26T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba88bcc7f6471cff3d021"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-30T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba88dcc7f6471cff3d029"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-29T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba88bcc7f6471cff3d00b"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-27T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba88bcc7f6471cff3d01d"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-28T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba88bcc7f6471cff3d011"
+            }
+        },
+        {
+            "result": 0,
+            "resultDate": {
+                "$date": "2022-03-31T18:30:00Z"
+            },
+            "_id": {
+                "$oid": "624ba88bcc7f6471cff3d011"
+            }
+        }
+    ],
+    "__v": 88
+}
